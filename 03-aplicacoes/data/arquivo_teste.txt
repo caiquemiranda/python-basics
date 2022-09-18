@@ -1,0 +1,3 @@
+Essa é uma linha que eu estou escrendo linha numero 1 
+Essa é a segunda linha escrita.Essa é uma linha de numero 3 usando python
+Essa é a ultima linha escrita usando python.
