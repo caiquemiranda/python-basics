@@ -1,2 +1,2 @@
-nome,sobrenome,email,genero
-Caique,Miranda,caique@email.com,masculino
+nome,sobrenome
+"['Caique', 'Miranda']","['Matheus', 'Souza']","['Gabriel ', 'Gomes']"
